@@ -1,5 +1,5 @@
 # requirement
-enable websocket extention in php.ini
+first enable websocket extention in php.ini
 
 # Installation
 1. Clone the repository from Github using — “git clone https://github.com/rezanadimi72/php-websocket.git”
